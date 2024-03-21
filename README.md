@@ -12,7 +12,6 @@ This project aims to predict customer churn in a telecom company using machine l
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -56,7 +55,3 @@ To use this project:
 ## Contributing
 
 Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
